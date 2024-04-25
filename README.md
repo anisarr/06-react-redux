@@ -38,3 +38,4 @@ Terdapat syntac error
 ![alt text](asset-report/error_Soal2.png)
 
 ## Praktikum 3
+![alt text](asset-report/praktikum3.png)
