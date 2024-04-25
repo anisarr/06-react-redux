@@ -35,6 +35,6 @@ Terjadi error karena text content pada sisi client yang ingin di render tidak se
 
 2. Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan method tersebut?
 Terdapat syntac error
-![alt text](asset-report/praktikum2-soal2.png)
+![alt text](asset-report/error_Soal2.png)
 
 ## Praktikum 3
