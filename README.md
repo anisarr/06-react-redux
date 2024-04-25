@@ -29,5 +29,12 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![alt text](asset-report/praktikum1.png)
 
 ## Praktikum 2
+1. Coba akses http://localhost:3000/login, dan klik tombol login. Kemudian lakukan refresh page berkali-kali (jika perlu restart npm run dev nya). Simpulkan apa yang terjadi ?
+![alt text](asset-report/praktikum2.png)
+Terjadi error karena text content pada sisi client yang ingin di render tidak sesuai dengan text content pada sisi server
 
+2. Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan method tersebut?
+Terdapat syntac error
+![alt text](asset-report/praktikum2-soal2.png)
 
+## Praktikum 3
